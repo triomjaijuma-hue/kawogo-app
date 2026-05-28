@@ -1,0 +1,19 @@
+{
+    "currentVersion": "2.0.0.Onion",
+    "globalMaintenance": false,
+    "apkUrl": "https://github.com/triomjaijuma-hue/kawogo-app/raw/refs/heads/main/files/app-release.apk",
+    "versions": [
+        {
+            "version": "2.0.0.Onion",
+            "releaseDate": "2026-05-28",
+            "mandatory": false,
+            "releaseNotes": [
+                "Initial release - all content free, no subscription required"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        }
+    ]
+}

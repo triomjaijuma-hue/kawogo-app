@@ -146,6 +146,18 @@
             "supported": true,
             "maintenance": false,
             "maintenanceMessage": null
+        },
+        {
+            "version": "1.0.0.Onion",
+            "releaseDate": "2026-05-29",
+            "mandatory": false,
+            "releaseNotes": [
+                "Kawogo Movies 1.0.0 - signed APK, all content free"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
         }
     ]
 }

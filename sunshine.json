@@ -1,8 +1,20 @@
 {
-    "currentVersion": "2.0.0.Onion",
+    "currentVersion": "1.0.0.Onion",
     "globalMaintenance": false,
     "apkUrl": "https://github.com/triomjaijuma-hue/kawogo-app/raw/refs/heads/main/files/app-release.apk",
     "versions": [
+        {
+            "version": "1.0.0.Onion",
+            "releaseDate": "2026-05-29",
+            "mandatory": false,
+            "releaseNotes": [
+                "Kawogo Movies 1.0.0 - all content free"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "2.0.0.Onion",
             "releaseDate": "2026-05-29",

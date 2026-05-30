@@ -8,9 +8,9 @@
       "releaseDate": "2026-05-30",
       "mandatory": false,
       "releaseNotes": [
-        "Removed: Subscribe to Download dialog",
-        "All downloads are now free",
-        "Removed: Auto-update prompts"
+        "Renamed to Jaiton Movies",
+        "All downloads are free - no subscription required",
+        "Removed auto-update checker"
       ],
       "state": "LATEST",
       "supported": true,

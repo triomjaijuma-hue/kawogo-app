@@ -1,8 +1,20 @@
 {
-    "currentVersion": "1.3.3.Onion",
+    "currentVersion": "1.3.4.Onion",
     "globalMaintenance": false,
     "apkUrl": "https://github.com/triomjaijuma-hue/jaiton-app/raw/refs/heads/main/files/app-release.apk",
     "versions": [
+        {
+            "version": "1.3.4.Onion",
+            "releaseDate": "2026-05-31",
+            "mandatory": false,
+            "releaseNotes": [
+                "Jaiton Movies 1.3.4 - signed APK, all content free"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.3.3.Onion",
             "releaseDate": "2026-05-31",
